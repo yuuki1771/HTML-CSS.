@@ -1,7 +1,9 @@
 .box1 {
   width: 300px;
   height: 300px;
-  background-color: red;
+  background-color: darkcyan;
+  margin: 300px;
+  padding: 300px;
 }
 
 .box2 {
