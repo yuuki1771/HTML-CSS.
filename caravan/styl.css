@@ -28,6 +28,7 @@ header {
 .social i {
   display: inline-block;
   margin-left: 20px;
+  color: black;
 }
 
 .social {
